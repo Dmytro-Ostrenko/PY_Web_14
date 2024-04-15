@@ -2,7 +2,6 @@
 
 ## <p align="center">Домашнє завдання  #14</p>
 
-## <p align="center">Перша частина</p>
 
 У цьому домашньому завданні ми продовжуємо доопрацьовувати наш REST API застосунок із домашнього завдання 13 ([https://github.com/Dmytro-Ostrenko/PY_Web_12_REST_API_auth](https://github.com/Dmytro-Ostrenko/PY_Web_13)).
 
